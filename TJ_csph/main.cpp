@@ -5,6 +5,7 @@
 int main(int argc, char *argv[])
 {
 	QApplication a(argc, argv);
+	//test
 	TJ_csph w;
 	TJ_GUI w2;
 	w2.show();
